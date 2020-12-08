@@ -1,0 +1,23 @@
+body{
+	background: teal;
+	font-size: 35px;
+	}
+
+#container{
+	background: pink;
+	padding: 135px;
+	width: 70%;
+	margin: auto;
+	margin-top: 10%;
+	text-align: center;
+	border: 2px solid green;
+	border-radius: 35px;
+}
+
+button{
+	margin-top: 60px;
+
+}
+h3{
+	color: blue;
+}
